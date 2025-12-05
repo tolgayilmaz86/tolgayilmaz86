@@ -109,9 +109,3 @@ Senior Software Engineer & Architect with 15+ years of experience in C++, Python
 - **PSM I** — Professional Scrum Master (Scrum.org)
 - **PSPO I** — Professional Scrum Product Owner (Scrum.org)
 - **Oracle Certified Associate** — Java SE 7 Programmer
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tlgylmz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-</p>
