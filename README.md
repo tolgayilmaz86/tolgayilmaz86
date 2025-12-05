@@ -11,7 +11,7 @@ Hi, I'm Tolga Yilmaz!
 </p>
 <hr/>
 <samp>
-Senior Software Engineer & Architect with 15+ years of experience in C++, Python, and Java. Specialized in avionics systems (DO-178B/C), high-performance computing, and software architecture. Currently based in The Netherlands 🇳🇱. Passionate about clean code, TDD, and building robust systems that make a difference.
+Senior Software Engineer & Architect with 15+ years of experience in C++, Java, C#, Python. Specialized in avionics systems (DO-178B/C), high-performance computing, and software architecture. Currently based in The Netherlands 🇳🇱. Passionate about clean code, TDD, and building robust systems that make a difference.
 </samp>
 
 ### 👨‍💻 Programming Languages
